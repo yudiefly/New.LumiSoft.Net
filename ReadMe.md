@@ -17,12 +17,16 @@ PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS 
 FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------
 项目说明
 ----------------------------------------
-New.LumiSoft.net是基于LumiSoft.Net源代码重新编译而成(少部分代码被修改了），以便于在.net framework 4.5/4.6/.net standard 2.0/.net core环境使用；
-LumiSoft.Net是我在.net framework 2.0时用得最爽的框架，可惜在.net core下却不能使用了，所以只有自己动手改造了。
-New.LumiSoft.Net的授权协议完全遵循LumiSoft.Net，请大家放心使用；
+
+New.LumiSoft.net是基于LumiSoft.Net源代码重新编译而成(少部分代码被修改了），以便于在.net framework 4.5/4.6/.net standard 2.0/.net core环境使用。
+
+LumiSoft.Net是我在.net framework 2.0时用得最爽的框架，可惜在.net core下却不能使用了，甚为遗憾，所以只有自己动手改造了。
+
+New.LumiSoft.Net的授权协议完全遵循LumiSoft.Net，请大家放心使用！
+
 ------------------------------------------------------------------------------------------
 
 .Test项目
