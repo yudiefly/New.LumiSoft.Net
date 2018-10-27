@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace NewLumiSoft.Net
+namespace LumiSoft.Net
 {
     /// <summary>
     /// This class provides well known TCP/UDP service ports.
